@@ -1,0 +1,10 @@
+{
+  "bot_name": "ChatBot",
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "openrouter_api_key": "YOUR_OPENROUTER_API_KEY_HERE",
+  "llm_model": "openai/gpt-3.5-turbo",
+  "system_prompt": "You are a helpful and friendly Discord chat bot. Engage naturally with users and remember context from previous conversations.",
+  "database_path": "./memory.db",
+  "short_term_memory_limit": 5,
+  "summarize_interval": 5
+}
