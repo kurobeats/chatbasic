@@ -5,7 +5,7 @@ venv:
 
 # 🔧 Internal run target
 run:
-	. venv/bin/activate && python3 main.py
+	. venv/bin/activate && python3 bot.py
 
 # 🧹 Clean up venv
 clean:
